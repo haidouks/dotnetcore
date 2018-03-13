@@ -8,7 +8,7 @@ VM_NAME = 'dev'
 # VM User — 'vagrant' by default
 VM_USER = 'vagrant'
 # Host folder to sync
-HOST_PATH = 'C:/Workspace'
+HOST_PATH = '/Users/cansinaldanmaz/Downloads/Workspace'
 # Where to sync to on Guest — 'vagrant' is the default user name
 GUEST_PATH = '/workspace'
 # # VM Port — uncomment this to use NAT instead of DHCP
